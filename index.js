@@ -1,0 +1,1 @@
+document.querySelector( '#test-title' ).style.color = 'red'
